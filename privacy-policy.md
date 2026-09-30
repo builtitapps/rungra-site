@@ -4,7 +4,7 @@ title: Rungra privacy policy
 
 # Rungra privacy policy
 
-*Last updated September 29, 2026*
+*Last updated September 30, 2026*
 
 Rungra is built so that your training stays yours. There is no account, no Rungra server, and nothing you log is sent to us.
 
@@ -14,7 +14,7 @@ Your sessions, sets, ladders, plan, zones, reminders and settings are stored onl
 
 ## Health data
 
-If you connect Apple Health (iPhone) or Health Connect (Android), Rungra reads your workouts and heart rate to count your zone 2 minutes and chart your heart rate over time, and saves your strength sessions there as workouts. What it reads is used on your phone only. It is never sent anywhere, never used for advertising, and never shared.
+If you connect Apple Health (iPhone) or Health Connect (Android), Rungra reads your workouts and heart rate to count your zone 2 minutes and chart your heart rate over time, and saves your strength sessions there as workouts. What it reads is used on your phone only. It is never sent to us, never used for advertising, and never shared. On iPhone it never leaves your phone, not even in your iCloud backups. On Android, the backups you turn on in your own Google Drive include it (see Automatic backup).
 
 You can change or remove Rungra's access at any time: on iPhone in Settings → Health → Data Access & Devices → Rungra, and on Android in the Health Connect app → App permissions → Rungra.
 
@@ -22,7 +22,7 @@ You can change or remove Rungra's access at any time: on iPhone in Settings → 
 
 Automatic backup is off unless you turn it on. When it's on, Rungra saves a copy of your data to your own cloud storage once a day and keeps the last 7 days. The copies go straight from your phone to your storage. Rungra has no server, and we never see them.
 
-- **On iPhone**, the copies go to your iCloud Drive, in a folder only Rungra uses. Apple stores them under your Apple ID.
+- **On iPhone**, the copies go to your iCloud Drive, in a folder only Rungra uses. Apple stores them under your Apple ID. They leave out what Rungra reads from Apple Health (your walks' heart rate, time in each zone and heart-rate drift); after a restore, Rungra reads those from Health again.
 - **On Android**, you allow Rungra to use its own app-data folder in your Google Drive. That folder is the only part of your Drive Rungra can reach: it can't see, open or change any of your other files, and it doesn't ask for your name or email. Google stores the copies under your Google Account.
 
 Rungra's use and transfer of information received from Google APIs adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements. Rungra uses its Drive folder only to store your backups and bring them back when you restore.
