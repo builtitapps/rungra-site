@@ -71,7 +71,7 @@ If reminders don't appear, check that notifications are allowed for Rungra in yo
 
 ## Deleting your data
 
-Settings → Your data → **Delete all data** removes everything Rungra keeps on your phone. Deleting the app does the same. Workouts saved to Apple Health or Health Connect, and backups in your iCloud Drive or Google Drive, stay until you remove them there. The [privacy policy](privacy-policy.md) explains how.
+Settings → Your data → **Delete all data** removes everything Rungra keeps on your phone. Deleting the app does the same. Workouts saved to Apple Health or Health Connect, and backups in your iCloud Drive or Google Drive, stay until you remove them there. To have a purchase record deleted as well, see [Delete your data](https://builtitapps.github.io/rungra-site/delete-data).
 
 ## A note on training
 

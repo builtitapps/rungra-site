@@ -8,3 +8,4 @@ Rungra tracks calisthenics progressions and zone 2 cardio days, on iPhone and An
 
 - [Support](support.md)
 - [Privacy policy](privacy-policy.md)
+- [Delete your data](delete-data.md)
